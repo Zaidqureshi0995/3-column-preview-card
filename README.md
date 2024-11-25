@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/Zaidqureshi0995/3-column-preview-card)
-- Live Site URL: [Github Pages](https://your-live-site-url.com)
+- Live Site URL: [Github Pages](https://zaidqureshi0995.github.io/3-column-preview-card/)
 
 ## My process
 
